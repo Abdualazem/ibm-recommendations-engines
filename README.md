@@ -23,7 +23,7 @@ top_20.p
 - **User-User Collaborative Filtering:** Recommend articles based on similar users' interactions.
 - **Content-Based Recommendations:** Recommend articles using metadata and keyword matching.
 - **Matrix Factorization (SVD):** Use latent features to predict user-article interactions and make recommendations.
-- **Evaluation:** Analyze cold start problems and model accuracy.
+- **Evaluation:** Analyse cold start problems and model accuracy.
 
 ## Getting Started
 
