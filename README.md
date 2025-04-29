@@ -29,8 +29,8 @@ top_20.p
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/ibm-recommendations.git
-    cd ibm-recommendations
+    git clone https://github.com/Abdualazem/ibm-recommendations-engines
+    cd ibm-recommendations-engines
     ```
 
 2. **Install dependencies:**
